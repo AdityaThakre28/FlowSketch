@@ -6,6 +6,11 @@ FlowSketch is a visual design tool for creating, connecting, and documenting sof
 
 Design your ideas visually, organize system components, and turn complex processes into clear diagrams.
 
+## Screenshots
+
+![FlowSketch Editor](./flowsketch-editor.png)
+![FlowSketch Editor](./adt-user-login-workflow.png)
+
 ## Features
 
 - **Visual Canvas** — Create and arrange workflow and architecture diagrams.
