@@ -6,6 +6,12 @@ FlowSketch is a visual design tool for creating, connecting, and documenting sof
 
 Design your ideas visually, organize system components, and turn complex processes into clear diagrams.
 
+## Live Demo
+
+**Try FlowSketch:** [Open the Live Application](https://flowsketcheditor.vercel.app/)
+
+**Source Code:** [View on GitHub](https://github.com/AdityaThakre28/FlowSketch/)
+
 ## Screenshots
 
 ![FlowSketch Editor](./flowsketch-editor.png)
