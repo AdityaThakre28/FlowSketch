@@ -1,0 +1,50 @@
+@import 'tailwindcss';
+@import '@xyflow/react/dist/style.css';
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: ui-sans-serif, system-ui, 'Segoe UI', sans-serif;
+  color: #27272a;
+  background: #f4f4f5;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.react-flow__attribution {
+  display: none;
+}
+
+.react-flow__controls-button {
+  border-bottom: 1px solid #e4e4e7 !important;
+  width: 28px !important;
+  height: 28px !important;
+}
+
+.react-flow__controls-button:hover {
+  background: #f4f4f5 !important;
+}
+
+.react-flow__edge-text {
+  fill: #3f3f46;
+  font-size: 11px;
+}
+
+.react-flow__edge-textbg {
+  fill: #fafafa;
+}
